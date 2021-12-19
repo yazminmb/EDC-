@@ -1,0 +1,11 @@
+NIVELES DE PERMISOS
+PROPIETARIO : es aquel usuario q crea o genera una carpeta de trabajo 
+GRUPO: cada usuario  casi siempre pertenece a un grupo de trabajo para formar un grupo de varios usuarios
+RESTO DE USUARIOS : no pertenesen a un grupo, ni es el propetario
+
+ 
+
+PERMISOS PARA ARCHIVOS 
+LECTURA : permite ver el archivo
+ESCRITURA: permite modificar o eliminar el contenido y modificar los permisos del archivo
+EJECUCION : permite ejecutar el archivo
