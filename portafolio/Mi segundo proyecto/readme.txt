@@ -1,0 +1,1 @@
+GitHub es gratis para todos los programadores que quieran alojar sus archivos en esta plataforma, sin embargo, todos los repositorios gratuitos eran públicos, es decir, estaban al alcance de cualquier usuario de la plataforma. Los programadores que quisieran repositorios privados tenían que pagar una suscripción en esta plataforma para poder habilitarlos.
